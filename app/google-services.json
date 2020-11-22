@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "193104156382",
+    "firebase_url": "https://messenger-ad6da.firebaseio.com",
+    "project_id": "messenger-ad6da",
+    "storage_bucket": "messenger-ad6da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193104156382:android:91461d2b25495c95c3144f",
+        "android_client_info": {
+          "package_name": "com.amresh.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193104156382-jgtsgd6pgrkuoh0ebmuq65c3ulok92bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb7moFxZeOp4eB-qybEfU6B3DnIB6COlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193104156382-jgtsgd6pgrkuoh0ebmuq65c3ulok92bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
